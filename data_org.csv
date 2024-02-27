@@ -1,0 +1,71 @@
+URL,Title,Last Visit Time,Category,Reputation,Domain Region,Domain Age,Domain Start Day,Domain Status,Ranking
+https://www.amazon.com/,Amazon,10/5/2022 14:45,Shopping,90,North America,26,10-Jan-97,Active,98
+https://www.microsoft.com/,Microsoft Official Site,10/5/2022 18:20,Technology,85,North America,29,26-Apr-91,Active,97
+https://www.nytimes.com/,"The New York Times - Breaking News, World News & Multimedia",10/6/2022 8:05,News,88,North America,26,18-Jan-96,Active,96
+https://www.netflix.com/,"Netflix - Watch TV Shows Online, Watch Movies Online",10/6/2022 20:30,Entertainment,92,Global,15,29-Aug-98,Active,95
+https://www.nike.com/,Nike. Just Do It. Nike.com,10/7/2022 9:15,Sports,87,North America,24,2-Feb-95,Active,96
+https://www.adidas.com/,adidas Official Website,10/8/2022 18:55,Sports,85,Europe,22,27-Mar-96,Active,94
+https://www.cnn.com/,"CNN - Breaking News, Latest News and Videos",10/8/2022 12:10,News,89,North America,26,1-Sep-93,Active,94
+https://www.spotify.com/,Music for everyone - Spotify,10/8/2022 18:55,Music,94,Global,14,23-Apr-06,Active,94
+https://www.wikipedia.org/,"Wikipedia, the free encyclopedia",10/9/2022 7:30,Reference,96,Global,20,13-Jan-01,Active,88
+https://www.instagram.com/,Instagram,10/9/2022 22:05,Social Media,95,Global,12,6-Oct-10,Active,88
+https://www.twitter.com/,Twitter. It's what's happening.,10/10/2022 10:40,Social Media,93,Global,14,21-Mar-06,Active,89
+https://www.google.com/,Google,10/10/2022 16:15,Search Engine,98,Global,23,15-Sep-97,Active,91
+https://www.reddit.com/,reddit: the front page of the internet,10/11/2022 8:50,Social News,91,Global,16,23-Jun-05,Active,92
+https://www.ebay.com/,"Electronics, Cars, Fashion, Collectibles & More",10/11/2022 14:25,Shopping,89,North America,26,3-Sep-95,Active,85
+https://www.linkedin.com/,LinkedIn: Log In or Sign Up,10/12/2022 5:00,Professional Network,86,Global,19,2-Nov-02,Active,89
+https://www.youtube.com/,YouTube,10/12/2022 20:35,Video Sharing,97,Global,16,14-Feb-05,Active,86
+https://www.gmail.com/,Gmail - Email from Google,10/13/2022 12:10,Email,94,Global,17,1-Apr-04,Active,90
+https://www.weather.com/,"The Weather Channel - National and Local Weather Radar, Daily Forecast",10/13/2022 17:45,Weather,88,North America,24,23-Jun-96,Active,93
+https://www.pinterest.com/,Pinterest,10/14/2022 9:20,Social Media,90,Global,11,26-Nov-09,Active,89
+https://www.apple.com/,Apple,10/14/2022 22:55,Technology,96,North America,45,19-Feb-87,Active,92
+https://www.bestbuy.com/,Best Buy,10/15/2022 20:05,Shopping,89,North America,36,22-Aug-86,Active,88
+https://www.starbucks.com/,Starbucks Coffee Company,10/15/2022 20:05,Food & Beverage,92,North America,31,8-Apr-93,Active,86
+https://www.walmart.com/,Walmart.com,10/16/2022 18:15,Shopping,87,North America,28,11-Oct-00,Active,91
+https://www.target.com/,Target : Expect More. Pay Less.,10/16/2022 18:15,Shopping,88,North America,22,2-Jan-02,Active,90
+https://www.mcdonalds.com/,"McDonald's: Burgers, Fries & More. Quality Ingredients.",10/17/2022 9:50,Food & Beverage,86,Global,26,15-Sep-93,Active,92
+https://www.homedepot.com/,The Home Depot,10/17/2022 15:25,Home Improvement,91,North America,38,19-Feb-78,Active,91
+https://www.bbc.com/,BBC - Homepage,10/18/2022 12:00,News,90,Europe,26,14-Dec-93,Active,90
+https://www.etsy.com/,"Etsy - Shop for handmade, vintage, custom, and unique gifts for everyone",10/18/2022 18:35,Shopping,87,Global,15,18-Jun-05,Active,89
+https://www.ibm.com/,IBM - United States,10/19/2022 7:10,Technology,84,North America,30,19-Mar-86,Active,84
+https://www.oracle.com/,Oracle,10/20/2022 10:20,Technology,86,Global,27,17-Jan-88,Active,86
+https://www.att.com/,"AT&T Official Site - Unlimited Data Plans, Internet Service, & TV",10/20/2022 10:20,Telecommunications,85,North America,29,30-Dec-86,Active,85
+https://www.verizon.com/,"Verizon: Wireless, Internet, TV and Phone Services",10/20/2022 16:55,Telecommunications,87,North America,32,16-Nov-00,Active,87
+https://www.nintendo.com/,"Nintendo - Official Site - Video Game Consoles, Games",10/21/2022 8:30,Gaming,88,Japan,32,23-Sep-98,Active,88
+https://www.samsung.com/,Samsung US,10/22/2022 5:40,Technology,89,South Korea,33,13-Jan-95,Active,89
+https://www.coca-cola.com/,Coca-Cola Global Home,10/22/2022 5:40,Food & Beverage,90,Global,28,1-Jan-86,Active,90
+https://www.pepsi.com/,Pepsi.com,10/22/2022 21:15,Food & Beverage,89,Global,29,16-Jun-87,Active,89
+https://www.sony.com/,"Sony USA - Electronics, PlayStation, Movies, Music",10/23/2022 12:50,Technology,88,Japan,34,1-Oct-94,Active,88
+https://www.disney.com/,Disney.com,10/24/2022 7:00,Entertainment,93,North America,31,15-Feb-96,Active,93
+https://www.foxnews.com/,Fox News - Breaking News Updates,10/24/2022 22:35,News,85,North America,25,15-Feb-95,Active,85
+https://www.cbs.com/,"CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows",10/24/2022 22:35,Entertainment,87,North America,24,21-Nov-94,Active,87
+https://www.nba.com/,NBA.com: Official Home Page of National Basketball Association,10/25/2022 14:10,Sports,92,North America,23,6-Jun-96,Active,92
+https://www.nfl.com/,Official Site of the National Football League,10/25/2022 19:45,Sports,91,North America,22,19-Feb-97,Active,91
+https://www.mlssoccer.com/,Major League Soccer,10/26/2022 8:20,Sports,90,North America,21,17-Aug-99,Active,89
+https://www.nhl.com/,Official Site of the National Hockey League,10/27/2022 22:05,Sports,89,North America,25,13-Oct-94,Active,88
+https://www.nasa.gov/,NASA,10/27/2022 9:30,Science,94,North America,62,29-Jul-58,Active,94
+https://www.space.com/,"Space.com: NASA, Space Exploration and Astronomy News",10/27/2022 22:05,Science,93,Global,23,27-Nov-96,Active,90
+https://www.espn.com/,ESPN: The Worldwide Leader in Sports,10/28/2022 14:40,Sports,92,North America,23,7-Sep-98,Active,89
+https://www.foxsports.com/,"FOX Sports - Sports News, Scores, Schedules, & Videos",10/28/2022 20:16,Sports,91,North America,22,6-Aug-99,Active,92
+https://www.ikea.com/,IKEA US - Furniture and Home Furnishings - IKEA,10/29/2022 8:51,Furniture,89,Europe,29,28-Aug-98,Active,77
+https://www.costco.com/,Welcome to Costco Wholesale,10/29/2022 17:26,Shopping,88,North America,26,17-Aug-97,Active,82
+https://www.tesla.com/,"Electric Cars, Solar & Clean Energy",10/30/2022 18:37,Automotive,94,North America,18,1-Jul-03,Active,78
+https://www.uber.com/,Your safety is our priority,10/31/2022 7:12,Transportation,90,Global,10,6-Mar-09,Active,66
+https://www.lyft.com/,Lyft: A ride when you need one,10/31/2022 7:12,Transportation,89,North America,11,16-Aug-12,Active,87
+https://www.airbnb.com/,"Vacation Rentals, Homes, Experiences & Places - Airbnb",10/31/2022 15:47,Travel,92,Global,14,11-Aug-08,Active,88
+https://www.booking.com/,"Booking.com: Hotels, Apartments & Accommodation",11/1/2022 8:22,Travel,72,Global,12,12-Aug-08,Active,89
+https://www.tripadvisor.com/,"Tripadvisor: Read Reviews, Compare Prices & Book",11/1/2022 17:58,Travel,63,Global,13,13-Aug-08,Active,87
+https://www.gmail.com/,Gmail - Email from Google,11/2/2022 10:33,Email,94,Global,17,1-Apr-04,Active,91
+https://www.outlook.com/,Outlook – free personal email and calendar from Microsoft,11/2/2022 18:08,Email,67,Global,17,2-Apr-04,Active,90
+https://www.yahoo.com/,Yahoo,11/3/2022 6:43,Web Portal,87,Global,26,3-Apr-04,Active,92
+https://www.aol.com/,"AOL - News, Politics, Sports & Latest Headlines",11/3/2022 22:19,Web Portal,77,Global,26,4-Apr-04,Active,91
+https://www.bankofamerica.com/,"Bank of America - Banking, Credit Cards, Loans and Merrill Investing",11/4/2022 13:54,Banking,87,North America,32,16-Oct-98,Active,89
+https://www.chase.com/,Chase Online,11/5/2022 8:04,Banking,88,North America,26,23-May-00,Active,87
+https://www.citibank.com/,Citibank Online,11/5/2022 8:04,Banking,89,Global,21,3-Mar-98,Active,92
+https://www.wellsfargo.com/,"Wells Fargo – Banking, Credit Cards, Loans, Mortgages & More",11/5/2022 20:39,Banking,87,North America,25,3-Oct-98,Active,91
+https://www.healthline.com/,Healthline: Medical information and health advice you can trust,11/6/2022 11:14,Health,91,North America,16,1-May-06,Active,89
+https://www.webmd.com/,WebMD: Better information. Better health.,11/6/2022 16:49,Health,90,Global,24,24-Sep-98,Active,88
+https://www.mayoclinic.org/,Mayo Clinic,11/7/2022 5:24,Health,92,North America,33,18-Sep-87,Active,94
+https://www.clevelandclinic.org/,Cleveland Clinic: Every Life Deserves World Class Care,11/7/2022 22:59,Health,91,North America,25,3-Nov-98,Active,90
+https://www.npr.org/,"NPR : National Public Radio : News & Analysis, World, US, Music & Arts",11/8/2022 14:34,News,89,North America,51,20-Apr-95,Active,89
+https://www.buzzfeed.com/,BuzzFeed,11/8/2022 20:09,Entertainment,87,North America,16,1-Nov-06,Active,92
