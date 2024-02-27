@@ -20,7 +20,8 @@ const svg = d3.select("#parcoor")
 .attr("transform",
         `translate(${margin.left},${margin.top})`);
 d3.csv("data_org.csv").then(data => {
-    let dimensions = Object.keys(data[0]).filter(key => key === "Reputation" || key === "Ranking" || key === "Domain Age" || key === "Category")
+    // let dimensions = Object.keys(data[0]).filter(key => key === "Reputation" || key === "Ranking" || key === "Domain Age" || key === "Category")
+    let dimensions = Object.keys(data[0]).filter(key => key != "Title" && key != "Last Visit Time" && key != "Domain Start Day" && key != "Domain Status")
 
     let categories = data.map(obj => obj["Category"])
     categories = [...new Set(categories)]
@@ -51,7 +52,11 @@ d3.csv("data_org.csv").then(data => {
     Yscales["Category"] = d3.scalePoint()
         .domain( data.map(d => d["Category"]) )
         .range([height, 0])
+    Yscales["Domain Region"] = d3.scalePoint()
+        .domain( data.map(d => d["Domain Region"]) )
+        .range([height, 0])
 
+    dimensions.unshift("Domain Region")
     dimensions.unshift("Category")
     dimensions.unshift("URL")
 
