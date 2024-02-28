@@ -56,7 +56,7 @@ d3.csv("data_org.csv").then(data => {
         .domain( data.map(d => d["Domain Region"]) )
         .range([height, 0])
 
-    dimensions.unshift("Domain Region")
+    // dimensions.unshift("Domain Region")
     dimensions.unshift("Category")
     dimensions.unshift("URL")
 
@@ -107,6 +107,7 @@ d3.csv("data_org.csv").then(data => {
         // .style("opacity", "0.2")
 
         // const text_note = d.target.__data__['Category'] + '\n' + d.target.__data__['URL'] + '\n' + d.target.__data__['Domain Region']
+        // const text_note = d.target.__data__['Domain Region']
         const text_note = d.target.__data__['Domain Region']
 
         const tooltip = d3.select('body').append('div')
@@ -156,7 +157,7 @@ d3.csv("data_org.csv").then(data => {
 
       // Draw the axis:
       svg.selectAll("axis")
-      // For each dimension of the dataset I add a 'g' element:
+      // For each dimension of the dataset add a 'g' element:
       .data(dimensions).enter()
       .append("g")
       .attr("class", "axis")
@@ -188,3 +189,33 @@ d3.csv("data_org.csv").then(data => {
     //   })
     // })
 })
+
+// Read CSV file using d3.js
+d3.csv('data_org.csv').then(function(data) {
+    // Create table element
+    var table = document.createElement('table');
+    
+    // Create table header
+    var thead = table.createTHead();
+    var headerRow = thead.insertRow();
+    Object.keys(data[0]).forEach(function(key) {
+        var th = document.createElement('th');
+        th.textContent = key;
+        headerRow.appendChild(th);
+    });
+    
+    // Create table body
+    var tbody = table.createTBody();
+    data.forEach(function(rowData) {
+        var row = tbody.insertRow();
+        Object.values(rowData).forEach(function(value) {
+            var cell = row.insertCell();
+            cell.textContent = value;
+        });
+    });
+    
+    // Append table to document
+    document.body.appendChild(table);
+}).catch(function(error) {
+    console.error('Error loading CSV file:', error);
+});
